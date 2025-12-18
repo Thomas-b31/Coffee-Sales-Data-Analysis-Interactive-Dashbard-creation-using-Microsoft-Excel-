@@ -9,8 +9,7 @@ Analysis of coffee sales (Arabica, Excelsa, Liberica, Robusta) from 2019 to 2022
 The objective is to better understand customer purchasing behavior and sales patterns, in order to support data-driven decisions and help grow sales in 2023 and 2024.
 
 **Dataset used**
-
-
+- <a href="https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/coffee_Orders_Data.xlsx">Dataset</a>
 
 **Analysis Dimensions**
 
