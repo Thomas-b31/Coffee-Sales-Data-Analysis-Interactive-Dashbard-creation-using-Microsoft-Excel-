@@ -2,16 +2,16 @@
 
 ☕ Coffee Sales Analysis 
 
-**Scope**
+***Scope***
 
 Analysis of coffee sales (Arabica, Excelsa, Liberica, Robusta) from 2019 to 2022 across 3 countries (United States, United Kingdom and Ireland).
 
 The objective is to better understand customer purchasing behavior and sales patterns, in order to support data-driven decisions and help grow sales in 2023 and 2024.
 
-**Dataset used**
+***Dataset used***
 - <a href="https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/coffee_Orders_Data.xlsx">Dataset</a>
 
-**Analysis Dimensions**
+***Analysis Dimensions***
 
 Sales are analyzed using the following filters:
 
@@ -19,14 +19,13 @@ Sales are analyzed using the following filters:
 - Product Size: 0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg
 - Loyalty Card: Yes / No
 
-**Questions (KPIs)**
+***Questions (KPIs)***
 
 - How do total sales evolve over time ?
 - How do sales compare by country?
 - Who are the Top 5 customers by total revenue?
-- Dashboard <a href="[https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/coffee_Orders_Data.xlsx](https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/Dashboard.png)">View Dashboard</a>
 
-**Data Processing & Methodology**
+***Data Processing & Methodology***
 
 - Verify data integrity (missing values, anomalies).
 - Clean and standardize data types and formats.
@@ -39,11 +38,11 @@ Sales are analyzed using the following filters:
 - Consolidated all visuals into a single interactive dashboard.
 - Add slicers and timelines for dynamic exploration.
 
-**Dashboard**
+***Dashboard***
 
 <img width="1232" height="634" alt="Dashboard" src="https://github.com/user-attachments/assets/1ef47900-f9d7-4d8a-b587-adf5d5178fdd" />
 
-**Project Insight**
+***Project Insight***
 
 Total sales show a cyclical behavior between 2019 and 2022, suggesting seasonality effects rather than a strictly linear growth trend.
 
