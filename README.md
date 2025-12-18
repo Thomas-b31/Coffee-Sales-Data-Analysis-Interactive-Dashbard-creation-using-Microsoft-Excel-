@@ -24,7 +24,7 @@ Sales are analyzed using the following filters:
 - How do total sales evolve over time ?
 - How do sales compare by country?
 - Who are the Top 5 customers by total revenue?
-- <a href="[https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/coffee_Orders_Data.xlsx](https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/Dashboard.png)">Dashboard</a>
+- Dashboard <a href="[https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/coffee_Orders_Data.xlsx](https://github.com/Thomas-b31/Coffee-Sales-Data-Analysis-Interactive-Dashbard-creation-using-Microsoft-Excel-/blob/main/Dashboard.png)">View Dashboard</a>
 
 **Data Processing & Methodology**
 
