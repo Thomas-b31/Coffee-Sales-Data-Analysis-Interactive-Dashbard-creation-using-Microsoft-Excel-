@@ -3,6 +3,7 @@
 ☕ Coffee Sales Analysis 
 
 **Scope**
+
 Analysis of coffee sales (Arabica, Excelsa, Liberica, Robusta) from 2019 to 2022 across 3 countries (United States, United Kingdom and Ireland).
 
 The objective is to better understand customer purchasing behavior and sales patterns, in order to support data-driven decisions and help grow sales in 2023 and 2024.
