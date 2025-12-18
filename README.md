@@ -46,6 +46,9 @@ Sales are analyzed using the following filters:
 **Project Insight**
 
 Total sales show a cyclical behavior between 2019 and 2022, suggesting seasonality effects rather than a strictly linear growth trend.
+
 Over the 2019–2022 period, the United States consistently generates the highest total sales, regardless of coffee type or roast level. The UK and Ireland show lower volumes but more stable year-over-year trends.
+
 A small group of customers (Top 5) accounts for a significant share of total revenue, indicating a strong concentration of sales among high-value clients.
+
 Light and Medium roast coffees appear to dominate sales across all countries, while Dark roast remains more niche.
